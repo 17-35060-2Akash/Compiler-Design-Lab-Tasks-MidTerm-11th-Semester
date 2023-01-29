@@ -1,0 +1,11 @@
+*Problem:
+
+1. Create a Cpp/C Program to generate tokens for a specific 
+   statement in your program. 
+   
+   Input:   X = a+b*10;
+   Output: 
+      
+      (Console)
+      (id,1)(=)(id,2)(+)(id,3)(*)(10)  
+
